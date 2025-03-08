@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FranciscoDitutala
-- 👀 I’m interested in sistem development
-- 🌱 I’m currently learning C# .NET Maui
-- 💞️ I’m looking to collaborate on sistem developer or web designer 
+- 👀 I’m interested in system development and other projects
+- 🌱 I’m currently learning C# and Java Springboot
+- 💞️ I’m looking to collaborate on system developer or web designer 
 - 📫 How to reach me, you can follow me in linkidin and in instagram 
 
 <!---
