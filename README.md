@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FranciscoDitutala
 - 👀 I’m interested in system development and other projects
 - 🌱 I’m currently learning C# and Java Springboot
-- 💞️ I’m looking to collaborate on system developer or web designer 
+- 💞️ I’m open to collaborate on system developer. 
 - 📫 How to reach me, you can follow me in linkidin and in instagram 
 
 <!---
